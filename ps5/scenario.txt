@@ -1,0 +1,96 @@
+vychod
+vychod
+vezmi kladivo teda
+zapad
+poloz tajomna truhlica vlastne
+pouzi kladivo hned
+vezmi naramok
+zapad
+zapad
+pouzi naramok pomaly
+sever
+pouzi lano
+poloz lano
+sever
+pouzi mec
+vychod
+vychod
+pouzi zlaty kluc
+sever
+pouzi strieborny kluc
+juh
+vezmi elixir
+vychod
+juh
+pouzi mec
+juh
+vezmi tajomna krabicka
+sever
+sever
+vychod
+vezmi modry plamen
+sever
+pouzi elixir
+sever
+vezmi zlaty kluc
+pouzi modry plamen
+zapad
+vezmi princezna pouzi skala
+juh
+zapad
+juh
+juh
+vychod
+pouzi skala
+sever
+vezmi mec
+vychod
+vychod
+sever
+preskumaj truhlica
+vezmi strieborny kluc
+vezmi lano
+juh
+vychod
+teda
+mozno
+uplne
+presne
+potichu
+rychlo
+iste
+mozno
+dobre
+jasne
+hej
+vlastne
+mozno
+nie
+mozno
+mozno
+fakt
+ticho
+len
+hmm
+no
+skoro
+mozno
+mozno
+ticho
+jasne
+mozno
+mozno
+uplne
+mozno
+urcite
+mozno
+vlastne
+mozno
+mozno
+mozno
+mozno
+mozno
+mozno
+mozno
+mozno
+mozno
